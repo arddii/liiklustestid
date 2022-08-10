@@ -1,13 +1,15 @@
 <template>
-    <div class="container mx-auto px-8 mt-48">
+    <div class="container mx-auto px-8 lg:mt-48 lg:mb-48 mb-10">
         <Header :title="questions_count + ' küsimust'" :subtitle="'Sul võib olla maksimaalselt ' + calculate_max_wrong_answers() + ' valet vastust.'"></Header>
 
         <div class="mt-16">
             <form @submit.prevent="submit">
                 <Question v-for="(question, index) in generated_questions" :key="index" :question="question" :index="index + 1" :is_wrong="wrongs.includes(question)" :correct="question.correct"></Question>
-                <button type="submit" :disabled="wrongs.length" :class="{'cursor-not-allowed': wrongs.length}" class="mt-5 px-4 py-3 font-semibold tracking-wide text-white text-xl bg-green-500 rounded-md hover:bg-green-600 transform duration-300">Kontrolli</button>
+                <button v-if="!submitted" type="submit" class="mt-5 px-4 py-3 font-semibold tracking-wide text-white text-xl bg-green-500 rounded-md hover:bg-green-600 transform duration-300">Kontrolli</button>
             </form>
         </div>
+
+        <button @click="this.$router.push({name: 'home'})" v-if="submitted" class="mt-5 px-4 py-3 font-semibold tracking-wide text-white text-xl bg-yellow-500 rounded-md hover:bg-yellow-600 transform duration-300">Proovi uuesti</button>
     </div>
 </template>
 
@@ -28,6 +30,7 @@
                 generated_questions: [],
                 wrongs: [],
                 max_incorrect: 1,
+                submitted: false,
             }
         },
 
@@ -47,19 +50,23 @@
 
             submit(event) {
                 const data = new FormData(event.target);
-            
-                for (let [index, value] of data) {
-                    let id = index.split('-')[0];
 
-                    for (let question of questions) {
-                        if (question.id === Number(id)) {
-                            if (question.correct !== value) {
-                                this.wrongs.push(question);
+                if (Array.from(data.keys()).length == this.questions_count) {
+                    for (let [index, value] of data) {
+                        let id = index.split('-')[0];
+
+                        for (let question of questions) {
+                            if (question.id === Number(id)) {
+                                if (question.correct !== value) {
+                                    this.wrongs.push(question);
+                                }
                             }
                         }
                     }
+
+                    this.submitted = true;
                 }
-            }
+            },
         },
 
         computed: {

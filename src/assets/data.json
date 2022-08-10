@@ -24,5 +24,30 @@
             "0,5 m.", "0,7 m.", "1,5 m."
         ],
         "correct": "0,7 m."
+    },
+    {
+        "id": 3,
+        "question": "Millistes noolega tähistatud suundades tohin sõita B-kategooria veoautoga?",
+        "answers": [
+            "Ainult D.", "C ja D.", "A, B, C ja D."
+        ],
+        "correct": "A, B, C ja D."
+    },
+    {
+        "id": 4,
+        "question": "Kas last tohib sõidutada sõiduauto esiistmel seljaga sõidusuunas?",
+        "answers": [
+            "Tohib, kui esiistme turvapadi on välja lülitatud ja laps on turvatoolis.",
+            "Ei tohi mitte ühelgi juhul."
+        ],
+        "correct": "Tohib, kui esiistme turvapadi on välja lülitatud ja laps on turvatoolis."
+    },
+    {
+        "id": 5,
+        "question": "Mitu meetrit läbib auto ühe sekundiga, kui sõidukiirus on 90 km/h?",
+        "answers": [
+            "15 meetrit.", "25 meetrit.", "35 meetrit."
+        ],
+        "correct": "25 meetrit."
     }
 ]
