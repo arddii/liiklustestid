@@ -1,0 +1,28 @@
+[
+    {
+        "id": 0,
+        "question": "Kes on juht?",
+        "answers": [
+            "Isik, kes juhib sõidukit või maastikusõidukit.",
+            "Isik, kellel on juhiluba.",
+            "Eksamineerija eksamisõidu ajal."
+        ],
+        "correct": "Isik, kes juhib sõidukit või maastikusõidukit."
+    },
+    {
+        "id": 1,
+        "question": "Milline märk hoiatab paremalt lähenevale juhile teeandmise kohustuse eest?",
+        "answers": [
+            "A", "B", "C"
+        ],
+        "correct": "B"
+    },
+    {
+        "id": 2,
+        "question": "Asulateel sõidukit teepeenral peatudes tuleb jätta jalakäijale vabaks käiguriba laiusega vähemalt...",
+        "answers": [
+            "0,5 m.", "0,7 m.", "1,5 m."
+        ],
+        "correct": "0,7 m."
+    }
+]
