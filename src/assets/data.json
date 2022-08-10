@@ -49,5 +49,117 @@
             "15 meetrit.", "25 meetrit.", "35 meetrit."
         ],
         "correct": "25 meetrit."
+    },
+    {
+        "id": 6,
+        "question": "Kas juht peab andma teed robotliikurile?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Ei."
+    },
+    {
+        "id": 7,
+        "question": "Millist liiki kindlustust nõuab seadus sõidukijuhilt teeliikluses osalemiseks?",
+        "answers": [
+            "Kaskokindlustust.", "Liikluskindlustust.", "Veosekindlustust." 
+        ],
+        "correct": "Liikluskindlustust."
+    },
+    {
+        "id": 8,
+        "question": "Milline välise tahavaatepeegli asend on õige?",
+        "answers": [
+            "A.", "B.", "C."
+        ],
+        "correct": "C."
+    },
+    {
+        "id": 9,
+        "question": "Juhil, kes on kohustatud andma teed, tuleb seda teha ...",
+        "answers": [
+            "sujuvalt pidurdades.", "võimalikult lühikese peatumisteekonnaga."
+        ],
+        "correct": "sujuvalt pidurdades."
+    },
+    {
+        "id": 10,
+        "question": "Pukseerida tohib ...",
+        "answers": [
+            "kiirteel kuni lähima ärasõidukohani.", "korraga rohkem kui ühte mootorsõidukit.", "painduva ühenduslüliga kiilasjääl, kui pukseeritaval sõidukil ei tööta sõidupidur."
+        ],
+        "correct": "kiirteel kuni lähima ärasõidukohani."
+    },
+    {
+        "id": 11,
+        "question": "Millisel juhul põleb selline märgutuli näidkuplokis?",
+        "answers": [
+            "Seisupidur (käsipidur) on rakendunud.", "Auto uks ei ole suletud.", "Elektrisüsteemi rikke korral."
+        ],
+        "correct": "Seisupidur (käsipidur) on rakendunud."
+    },
+    {
+        "id": 12,
+        "question": "Kollase vilkuva tulega foor osutab ...",
+        "answers": [
+            "reguleeritud ristmikule.", "ülekäigurajale või muule ohtlikule kohale.", "sellele, et süttib roheline tuli."
+        ],
+        "correct": "ülekäigurajale või muule ohtlikule kohale."
+    },
+    {
+        "id": 13,
+        "question": "Millega tuleb musta sõiduki juhil arvestada?",
+        "answers": [
+            "Buss võib pöördel oma mõõtmete tõttu teda ohustada.", "Buss võib pidurdamise tõttu kalduda naaberrajale."
+        ],
+        "correct": "Buss võib pöördel oma mõõtmete tõttu teda ohustada."
+    },
+    {
+        "id": 14,
+        "question": "Sõiduki tegelik mass on sõiduki mass konkreetsel ajahetkel ...",
+        "answers": [
+            "ilma juhi, sõitjate ja veoseta.", "koos juhi, sõitjate ja veosega.", "mass koos juhiga."
+        ],
+        "correct": "koos juhi, sõitjate ja veosega."
+    },
+    {
+        "id": 15,
+        "question": "Mis on ettenähtust madalama rehvirõhuga sõitmise tagajärg?",
+        "answers": [
+            "Suurem kütusekulu.", "Rehvide parem haarduvus teepinnaga.", "Rehvide kiirem kulumine veerepinna keskelt."
+        ],
+        "correct": "Suurem kütusekulu."
+    },
+    {
+        "id": 16,
+        "question": "Möödasõit on eessõitvast sõidukist ettejõudmine oma sõidurajalt ...",
+        "answers": [
+            "välja sõites.", "välja sõitmata."
+        ],
+        "correct": "välja sõites."
+    },
+    {
+        "id": 17,
+        "question": "Milline auto on pargitud õigesti?",
+        "answers": [
+            "Punane auto.", "Kollane auto.", "Sinine auto."
+        ],
+        "correct": "Sinine auto."
+    },
+    {
+        "id": 18,
+        "question": "Milliseid andmeid on sõiduki omanik kohustaud säilitama sõiduki kasutaja kohta?",
+        "answers": [
+            "Sünnikoht.", "Isikukood.", "ID-kaardi number."
+        ],
+        "correct": "Isikukood."
+    },
+    {
+        "id": 19,
+        "question": "Kas olen kohustatud andma teed?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Ei."
     }
 ]
