@@ -13,9 +13,9 @@
         "id": 1,
         "question": "Milline märk hoiatab paremalt lähenevale juhile teeandmise kohustuse eest?",
         "answers": [
-            "A", "B", "C"
+            "A.", "B.", "C."
         ],
-        "correct": "B"
+        "correct": "B."
     },
     {
         "id": 2,
@@ -161,5 +161,435 @@
             "Jah.", "Ei."
         ],
         "correct": "Ei."
+    },
+    {
+        "id": 20,
+        "question": "Milline on sõiduauto rehvi mustri vähim lubatud sügavus?",
+        "answers": [
+            "1 mm olenemata hooajast.", "1,6 mm suverehvidel.", "2 mm talverehvidel."
+        ],
+        "correct": "1,6 mm suverehvidel."
+    },
+    {
+        "id": 21,
+        "question": "Millises noolega näidatud suunas tohin asulas sõitu jätkata?",
+        "answers": [
+            "Ainult A.", "A ja B.", "A, B, C ja D."
+        ],
+        "correct": "A, B, C ja D."
+    },
+    {
+        "id": 22,
+        "question": "Kui palju aega kulub keskmiselt 10 g puhta alkoholi lagundamiseks organismis?",
+        "answers": [
+            "0,5 tundi.", "1 tund.", "2 tundi."
+        ],
+        "correct": "1 tund."
+    },
+    {
+        "id": 23,
+        "question": "Kas M+S tähisega rehvidega võib sõita suvel?",
+        "answers": [
+            "Jah, kui neil rehvidel pole naaste.", "Ei."
+        ],
+        "correct": "Jah, kui neil rehvidel pole naaste."
+    },
+    {
+        "id": 24,
+        "question": "Kas juht tohib autoga ületada väljaspool asulat teekattemärgise 'Ühekordne pidevjoon' ja parkida teepeenrale?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Jah."
+    },
+    {
+        "id": 25,
+        "question": "Kuidas läbida järsk kurv ohutult?",
+        "answers": [
+            "Pidurdada kurvis.", "Vähendada kiirust enne kurvi.", "Läbida kurv vabakäiguga."
+        ],
+        "correct": "Vähendada kiirust enne kurvi."
+    },
+    {
+        "id": 26,
+        "question": "Milline on ristmiku ületamise järjekord?",
+        "answers": [
+            "Esimesena punane, seejärel sinine ja viimasena kollane auto.",
+            "Esimesena kollane, seejärel sinine ja viimasena punane auto.",
+            "Esimesena sinine, seejärel kollane ja viimasena punane auto."
+        ],
+        "correct": "Esimesena kollane, seejärel sinine ja viimasena punane auto."
+    },
+    {
+        "id": 27,
+        "question": "Millist haagist võib autoga vedada B-kategooria juhiloaga juht?",
+        "answers": [
+            "Kerghaagist, mille registrimass on kuni 750 kg.",
+            "Haagist, mille registrimass on suurem kui vedava B-kategooria auto tühimass.",
+            "Haagist, mille täismass on kuni 3500 kg."
+        ],
+        "correct": "Kerghaagist, mille registrimass on kuni 750 kg."
+    },
+    {
+        "id": 28,
+        "question": "Neil märkidel on ühine see, et nad keelavad teel kõigi ...",
+        "answers": [
+            "sõidukite märgist edasisõidu.", "mootorsõidukite liikluse.", "mootorsõidukite märgist edasisõidu."
+        ],
+        "correct": "mootorsõidukite märgist edasisõidu."
+    },
+    {
+        "id": 29,
+        "question": "Mis iseloomustab paindliku mõtteviisiga juhti?",
+        "answers": [
+            "Käitub tundmatus olukorras harjumuslikult.", "Arvestab konkreetset olurkoda.", "Koondab keerulises olukorras tähelepanu ühele objektile."
+        ],
+        "correct": "Arvestab konkreetset olurkoda."
+    },
+    {
+        "id": 30,
+        "question": "Milline sõidujoon on ringilt väljasõidul õige?",
+        "answers": [
+            "A.", "B."
+        ],
+        "correct": "A."
+    },
+    {
+        "id": 31,
+        "question": "Esmane juhiluba kehtib kuni ...",
+        "answers": [
+            "üks aasta.", "kaks aastat.", "kolm aastat."
+        ],
+        "correct": "kaks aastat."
+    },
+    {
+        "id": 32,
+        "question": "Mis võib kaasneda uimastite tarvitamisega?",
+        "answers": [
+            "Kehalise ja vaimse seisundi tunduv paranemine.",
+            "Pidurdusteekonna lühenemine ootamatu takistuse korral.",
+            "Liikluses toimetulekuks vajalike võimete ülehindamine."
+        ],
+        "correct": "Liikluses toimetulekuks vajalike võimete ülehindamine."
+    },
+    {
+        "id": 33,
+        "question": "Kas sõiduk on peatatud õigesti?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Jah."
+    },
+    {
+        "id": 34,
+        "question": "Mis suurendab sõiduki kütusekulu?",
+        "answers": [
+            "Katuseboks või -raam.", "Sõiduki voolujooneline kere.", "Ühtlane sõidukiirus."
+        ],
+        "correct": "Katuseboks või -raam."
+    },
+    {
+        "id": 35,
+        "question": "Pimeda ajal asulavälisel teel hädapeatumisel (nt ratta vahetamiseks) ...",
+        "answers": [
+            "peab juhil olema autost sõiduteele väljudes seljas ohutusvest.",
+            "ei pea sõidukil olema sisse lülitatud ohu- ja ääretuled.",
+            "peab juht väljuma parempoolsest uksest."
+        ],
+        "correct": "peab juhil olema autost sõiduteele väljudes seljas ohutusvest."
+    },
+    {
+        "id": 36,
+        "question": "Kas möödasõit on sellisel juhul ohutu?",
+        "answers": [
+            "Jah, kuna asun peateel.", "Ei, kuna kõrvalteelt võib minu suunas pöörata auto."
+        ],
+        "correct": "Ei, kuna kõrvalteelt võib minu suunas pöörata auto."
+    },
+    {
+        "id": 37,
+        "question": "Mis lõpetab asulavälisel teel kiirusepiirangu?",
+        "answers": [
+            "Märk 'Anna teed' või 'Peatu ja anna teed'.",
+            "Lähim ristmik.",
+            "Märk 'Kohanime tähis'."
+        ],
+        "correct": "Märk 'Anna teed' või 'Peatu ja anna teed'."
+    },
+    {
+        "id": 38,
+        "question": "Kuidas tuvastan musta jää?",
+        "answers": [
+            "Must jää on nähtav.", "Ohutus kohas tavalisest järsemalt pidurdamise korral hakkab auto libisema."
+        ],
+        "correct": "Ohutus kohas tavalisest järsemalt pidurdamise korral hakkab auto libisema."
+    },
+    {
+        "id": 39,
+        "question": "Millise suurima sõidukiirusega tohib sõita rohelise auto juht?",
+        "answers": [
+            "30 km/h.", "50 km/h.", "90 km/h."
+        ],
+        "correct": "50 km/h."
+    },
+    {
+        "id": 40,
+        "question": "Sõidukite liiklus Eestis on ...",
+        "answers": [
+            "parempoolne.", "vasakpoolne."
+        ],
+        "correct": "parempoolne."
+    },
+    {
+        "id": 41,
+        "question": "Juhi normaalne reageerimisaeg on ligikaudu ...",
+        "answers": [
+            "0,5 sekundit.", "1 sekund.", "2 sekundit."
+        ],
+        "correct": "1 sekund."
+    },
+    {
+        "id": 42,
+        "question": "Tagurdamiskaamera punane joon näitab asukohta, kus ...",
+        "answers": [
+            "tagumine kaitseraud on vastu takistust.",
+            "takistuse ja tagumise kaitseraua vahe on 30-50 cm."
+        ],
+        "correct": "takistuse ja tagumise kaitseraua vahe on 30-50 cm."
+    },
+    {
+        "id": 43,
+        "question": "Mida juht saab teha kütusekulu vähendamiseks?",
+        "answers": [
+            "Hoida rehvirõhku alla lubatud normi piiri.",
+            "Mitte vedada kaasa üleliigset pagasit.",
+            "Sõita mootori kõrgemate pööretega."
+        ],
+        "correct": "Mitte vedada kaasa üleliigset pagasit."
+    },
+    {
+        "id": 44,
+        "question": "Näidikuplokis selle märgutule põlemine tähistab riket ...",
+        "answers": [
+            "mootoris.", "ventilatsiooniseadmes.", "pidurisüsteemis."
+        ],
+        "correct": "mootoris."
+    },
+    {
+        "id": 45,
+        "question": "Kui ajutise (kollast värvi) ja alalise (valget värvi) teekattemärgise nõuded on vastuolus, siis tuleb juhil lähtuda ...",
+        "answers": [
+            "ajutise teekattemärgise nõudest.", "alalise teekattemärgise nõudest."
+        ],
+        "correct": "ajutise teekattemärgise nõudest."
+    },
+    {
+        "id": 46,
+        "question": "Millega pean arvestama?",
+        "answers": [
+            "Sõidan kahesuunalisel teel.",
+            "Tagasipööre on lubatud.",
+            "Vasakpöörde pean tegema sõidutee vasaku ääre lähedalt."
+        ],
+        "correct": "Vasakpöörde pean tegema sõidutee vasaku ääre lähedalt."
+    },
+    {
+        "id": 47,
+        "question": "Kus kehtib liikluskindlustus?",
+        "answers": [
+            "Võistlusteks suletud territooriumil.",
+            "Hoones asuvas avalikus parklas.",
+            "Ajutiselt avalikule teeliiklusele suletud teelõigul."
+        ],
+        "correct": "Hoones asuvas avalikus parklas."
+    },
+    {
+        "id": 48,
+        "question": "Millist pinget kasutatakse üldjuhul sõiduauto elektrisüsteemis?",
+        "answers": [
+            "6 V.", "12 V.", "24 V."
+        ],
+        "correct": "12 V."
+    },
+    {
+        "id": 49,
+        "question": "Pimeda ajal tohib väljaspool asulat sõiduki parkida ...",
+        "answers": [
+            "sõidutee äärde.", "teepeenrale", "puhkekohta."
+        ],
+        "correct": "puhkekohta."
+    },
+    {
+        "id": 50,
+        "question": "Millistes suundades tohin ristmikul sõita?",
+        "answers": [
+            "C ja D.", "B. C ja D.", "A, C ja D."
+        ],
+        "correct": "A, C ja D."
+    },
+    {
+        "id": 51,
+        "question": "Milline liiklusmärk järgneb 200 m pärast?",
+        "answers": [
+            "'Anna teed'.", "'Peatu ja anna teed'.", "'Peatee'."
+        ],
+        "correct": "'Peatu ja anna teed'."
+    },
+    {
+        "id": 52,
+        "question": "Sõiduki registrimass on ...",
+        "answers": [
+            "ilma juhi, sõitjate ja veoseta sõiduki mass.",
+            "juhi, sõitjate ja veosega täisvarustuses sõidukile registreerimisel määratud suurim mass.",
+            "mass koos juhiga konkreetsel ajahetkel."
+        ],
+        "correct": "juhi, sõitjate ja veosega täisvarustuses sõidukile registreerimisel määratud suurim mass."
+    },
+    {
+        "id": 53,
+        "question": "Milline auto on pargitud õigesti?",
+        "answers": [
+            "Sinine auto.", "Punane auto.", "Kollane auto."
+        ],
+        "correct": "Kollane auto."
+    },
+    {
+        "id": 54,
+        "question": "Liikluskindlustuse poliis kehtib ...",
+        "answers": [
+            "kuni 36 kuud.", "kuni 12 kuud.", "tähtajatult."
+        ],
+        "correct": "kuni 12 kuud."
+    },
+    {
+        "id": 55,
+        "question": "Mida teha, kui näidikuplokis süttib selline märgutuli?",
+        "answers": [
+            "Jätkata sõitu ja oodata tule kustumist.",
+            "Tuleb valada juurde jahutusvedelikku.",
+            "Peatada sõiduk. Edasine tegevus selgub pärast rikke väljaselgitamist."
+        ],
+        "correct": "Peatada sõiduk. Edasine tegevus selgub pärast rikke väljaselgitamist."
+    },
+    {
+        "id": 56,
+        "question": "Rataste haardumine teekattega sõidusuunas kaob, kui ...",
+        "answers": [
+            "haardumine on enne kadunud külgsuunas.",
+            "haardejõud ületab veojõu.",
+            "rattad on pidurdamisel veeremise ja blokeerumise piiril."
+        ],
+        "correct": "haardumine on enne kadunud külgsuunas."
+    },
+    {
+        "id": 57,
+        "question": "Millises märgitud suunas võin sõiduautoga sõita (v.a klienti teenindav takso)?",
+        "answers": [
+            "Ainult B.", "A, B ja D.", "A, B ja C."
+        ],
+        "correct": "A, B ja C."
+    },
+    {
+        "id": 58,
+        "question": "Märgiga '30' tähistatud teelõigul ...",
+        "answers": [
+            "võivad puududa teel olevatele ohtudele viitavad hoiatusmärgid.",
+            "peavad teekünnised olema tähistatud.",
+            "ei lõpeta ristmik asulas kiirusepiirangut."
+        ],
+        "correct": "võivad puududa teel olevatele ohtudele viitavad hoiatusmärgid."
+    },
+    {
+        "id": 59,
+        "question": "Kas esmase juhtimisõigusega juhi auto peab olema tähistatud sellise tunnusmärgiga?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Jah."
+    },
+    {
+        "id": 60,
+        "question": "Möödasõit on keelatud ...",
+        "answers": [
+            "reguleeritud ülekäigurajal.",
+            "lubatud suurimat kiirust ületades.",
+            "märgi 'Möödasõit keelatud', mõjupiirkonnas vaatamata sellele, et eesliikuva üksiku sõiduki kiirus on alla 30 km/h."
+        ],
+        "correct": "lubatud suurimat kiirust ületades."
+    },
+    {
+        "id": 61,
+        "question": "Milline on ristmiku ületamise järjekord?",
+        "answers": [
+            "Sinine, punane ja roheline auto.",
+            "Sinine, roheline ja punane auto.",
+            "Roheline, sinine ja punane auto."
+        ],
+        "correct": "Sinine, roheline ja punane auto."
+    },
+    {
+        "id": 62,
+        "question": "Mida näitab tahhomeeter?",
+        "answers": [
+            "Sõidukiirust.", "Mootori töötemperatuuri.", "Mootori väntvõlli pöördeid."
+        ],
+        "correct": "Mootori väntvõlli pöördeid."
+    },
+    {
+        "id": 63,
+        "question": "Kumb auto on pargitud õigesti?",
+        "answers": [
+            "Kollane auto.", "Must auto."
+        ],
+        "correct": "Kollane auto."
+    },
+    {
+        "id": 64,
+        "question": "Auto kapoti saab üles tõsta, kui avada ...",
+        "answers": [
+            "kapoti lukusti.", "kapoti lukusti ja vajutada kapoti all olevale tuuleluku haagile."
+        ],
+        "correct": "kapoti lukusti ja vajutada kapoti all olevale tuuleluku haagile."
+    },
+    {
+        "id": 65,
+        "question": "Milline märk hoiatab tõkkepuuga raudteeülesõidukohale lähenemise eest?",
+        "answers": [
+            "A.", "B.", "C."
+        ],
+        "correct": "B."
+    },
+    {
+        "id": 66,
+        "question": "Roheline kaart on ...",
+        "answers": [
+            "kaart, millega vabastatakse liikluskindlustuse leping sõlmimise kohustusest.",
+            "liikluskindlustuse poliisi vorm, mis kehtib Eestis ja välisriikides."
+        ],
+        "correct": "liikluskindlustuse poliisi vorm, mis kehtib Eestis ja välisriikides."
+    },
+    {
+        "id": 67,
+        "question": "Kas selles olukorras on möödasõit lubatud?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Ei."
+    },
+    {
+        "id": 68,
+        "question": "Juht vähendab ohutult ja tõhusalt sõidukile rakendatud tsentrifugaaljõudu, kui vähendab ...",
+        "answers": [
+            "sõiduki massi.", "sõiduki kiirust.", "kurvi raadiust."
+        ],
+        "correct": "sõiduki kiirust."
+    },
+    {
+        "id": 69,
+        "question": "Missugune kategooria peab olema märgitud juhiloale, et juhtida autot, mille täismass on 3600 kg?",
+        "answers": [
+            "A.", "B.", "C."
+        ],
+        "correct": "C."
     }
 ]
