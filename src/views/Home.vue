@@ -5,7 +5,7 @@
 
             <div class="max-w-md mx-auto text-center">
                 <label for="questions" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Küsimusi: {{ questions_count }}</label>
-                <input v-model="questions_count" id="questions" type="range" min="2" :max="questions.length"  class="w-full h-3 bg-gray-200 rounded-lg appearance-none cursor-pointer range-lg dark:bg-gray-700">
+                <input v-model="questions_count" id="questions" type="range" min="2" :max="(questions.length <= 25) ? questions.length : 25"  class="w-full h-3 bg-gray-200 rounded-lg appearance-none cursor-pointer range-lg dark:bg-gray-700">
                 <button @click="start" class="mt-5 px-4 py-3 font-semibold tracking-wide text-white text-xl bg-green-500 rounded-md hover:bg-green-600 transform duration-300">Alusta</button>
             </div>
         </div>
