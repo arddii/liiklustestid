@@ -64,6 +64,14 @@
                         }
                     }
 
+                    let summary = {
+                        questions: this.generated_questions,
+                        incorrects: this.wrongs,
+                        created_at: Date.now()
+                    }
+
+                    this.$store.dispatch('add_to_history', summary);
+
                     this.submitted = true;
                 }
             },
