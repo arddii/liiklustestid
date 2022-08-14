@@ -591,5 +591,95 @@
             "A.", "B.", "C."
         ],
         "correct": "C."
+    },
+    {
+        "id": 70,
+        "question": "Kumma auto juhil tuleb anda teed?",
+        "answers": [
+            "Pruuni auto juhil.", "Sinise auto juhil."
+        ],
+        "correct": "Sinise auto juhil."
+    },
+    {
+        "id": 71,
+        "question": "Alkoholi mõju inimese organismile suurendab selle tarbimine ...",
+        "answers": [
+            "koos veega.", "tühja kõhuga.", "toidu kõrvale."
+        ],
+        "correct": "tühja kõhuga."
+    },
+    {
+        "id": 72,
+        "question": "Mis võib kaasneda roolivõimendi rikkega?",
+        "answers": [
+            "Rooli on raske pöörata.",
+            "Rool pöörab kergelt, kuid rattad ei pööra.",
+            "Auto ei käivitu."
+        ],
+        "correct": "Rooli on raske pöörata."
+    },
+    {
+        "id": 73,
+        "question": "Millise suurima lubatud sõidukiirusega tohivad sõita asulas kollast värvi autod?",
+        "answers": [
+            "40 km/h.", "50 km/h.", "60 km/h."
+        ],
+        "correct": "50 km/h."
+    },
+    {
+        "id": 74,
+        "question": "Mootorsõidukil peavad asulavälisel teel põlema ääre-, numbri- ja ohutuled, kui ta ...",
+        "answers": [
+            "on peatatud halva nähtavusega teel.",
+            "on peatatud hea nähtavusega teel.",
+            "sõidab piiratud nähtavusega teel."
+        ],
+        "correct": "on peatatud halva nähtavusega teel."
+    },
+    {
+        "id": 75,
+        "question": "Mida tähistab selle märgutule põlemine näidikuplokis?",
+        "answers": [
+            "Kaugtuled on sisse lülitatud.",
+            "Eesmised udutuled on sisse lülitatud.",
+            "Lühituled on sisse lülitatud."
+        ],
+        "correct": "Lühituled on sisse lülitatud."
+    },
+    {
+        "id": 76,
+        "question": "Mis võib tekitada juhis tunde, et ta sõidab liiga aeglaselt?",
+        "answers": [
+            "Sõit laial, avara vaate ja hea kattega teel.",
+            "Sõitjateruumi kostev müra ja vibratsioon.",
+            "Kui juht sõitis enne pikka aega väiksema kiirusega."
+        ],
+        "correct": "Sõit laial, avara vaate ja hea kattega teel."
+    },
+    {
+        "id": 77,
+        "question": "Kas kollane auto paikneb enne vasakpööret õigesti?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Ei."
+    },
+    {
+        "id": 78,
+        "question": "Tagant läheneva sisse lülitatud sinise vilkuriga eritalituse sõiduki korral pean ...",
+        "answers": [
+            "hoidma tagantsõitjaga pikivahet ja lisama kiirust.",
+            "tegema viivitamata ruumi sõiduki möödumiseks.",
+            "peatama sõiduki viivitamata oma sõidurajal."
+        ],
+        "correct": "tegema viivitamata ruumi sõiduki möödumiseks."
+    },
+    {
+        "id": 79,
+        "question": "Millisel sõidukil peavad pukseerimisel põlema ohutuled?",
+        "answers": [
+            "Pukseerival sõidukil.", "Pukseeritaval sõidukil."
+        ],
+        "correct": "Pukseeritaval sõidukil."
     }
 ]
