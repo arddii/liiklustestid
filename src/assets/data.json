@@ -681,5 +681,175 @@
             "Pukseerival sõidukil.", "Pukseeritaval sõidukil."
         ],
         "correct": "Pukseeritaval sõidukil."
+    },
+    {
+        "id": 80,
+        "question": "Ristmiku moodustab kattega tee lõikumine ...",
+        "answers": [
+            "õuealaga.", "kruusateega.", "pnnasteega."
+        ],
+        "correct": "kruusateega."
+    },
+    {
+        "id": 81,
+        "question": "Kas olen kohustatud andma teed vastassuunast lähenevale juhile?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Ei." 
+    },
+    {
+        "id": 82,
+        "question": "Edaspidi sõiduks tuleb automaatkäigukastiga autol lülitada käiguvalits asendisse ...",
+        "answers": [
+            "'R'.", "'D'.", "'N'."
+        ],
+        "correct": "'D'."
+    },
+    {
+        "id": 83,
+        "question": "Mida tähendab selle märgutule põlemine näidikuplokis?",
+        "answers": [
+            "Ülepinget elektrisüsteemis.",
+            "Vähemalt üks latern ei tööta.",
+            "Sõidukile vajaminev vool võetakse akult."
+        ],
+        "correct": "Sõidukile vajaminev vool võetakse akult."
+    },
+    {
+        "id": 84,
+        "question": "Must jää võib tekkida tingimustel, kus välisõhu temperatuur on ...",
+        "answers": [
+            "üle 0 °C ja teekatte temperatuur on alla 0 °C.",
+            "alla 0 °C ja teekatte temperatuur on üle 0 °C.",
+            "alla 0 °C ja teekatte temperatuur on alla 0 °C."
+        ],
+        "correct": "üle 0 °C ja teekatte temperatuur on alla 0 °C."
+    },
+    {
+        "id": 85,
+        "question": "Kas olen kohustatud andma teed trammi juhile?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Jah."
+    },
+    {
+        "id": 86,
+        "question": "Auto pidurdusteekond koosneb pidurite rakendumise teekonnast ja ...",
+        "answers": [
+            "reageerimisteekonnast.",
+            "aeglustusteekonnast.",
+            "peatumisteekonnast."
+        ],
+        "correct": "aeglustusteekonnast."
+    },
+    {
+        "id": 87,
+        "question": "Millise ohu eest hoiatab see märk?",
+        "answers": [
+            "Tee ebatasasuse eest.",
+            "Libedale teelõigule lähenemise eest.",
+            "Lähenemise eest teelõigule, kus sõiduteekattes esinevad pikiroopad."
+        ],
+        "correct": "Libedale teelõigule lähenemise eest."
+    },
+    {
+        "id": 88,
+        "question": "Milline nimetatutest on mootorsõiduk?",
+        "answers": [
+            "Pisimopeed", "Tasakaaluliikur.",
+            "Sõiduk, mille valmistajakiirus on üle 6 km/h."
+        ],
+        "correct": "Sõiduk, mille valmistajakiirus on üle 6 km/h."
+    },
+    {
+        "id": 89,
+        "question": "Kuidas toimin, kui vastusõitja kaldub minu teepoolele?",
+        "answers": [
+            "Jätkan sõitu omal sõidurajal.",
+            "Äärmisel juhul valmistun teelt paremale välja sõitma.",
+            "Pööran vastassuunavööndisse."
+        ],
+        "correct": "Äärmisel juhul valmistun teelt paremale välja sõitma."
+    },
+    {
+        "id": 90,
+        "question": "Millises märgitud suunas tohin sõita?",
+        "answers": [
+            "A, B, C ja D.", "A, B ja C.", "Ainult B."
+        ],
+        "correct": "A, B, C ja D."
+    },
+    {
+        "id": 91,
+        "question": "Kes tohib sõlmida kindlustuslepingu?",
+        "answers": [
+            "Iga isik, kellel on kindlustushuvi.",
+            "Ainult sõiduki registreerimistunnistusele märgitud isik."
+        ],
+        "correct": "Iga isik, kellel on kindlustushuvi."
+    },
+    {
+        "id": 92,
+        "question": "Kummas kohas on õigem lülitada sisse parempoolne suunamärguanne, et sõita parkimismajja?",
+        "answers": [
+            "A.", "B."
+        ],
+        "correct": "B."
+    },
+    {
+        "id": 93,
+        "question": "Millisel juhul on nõutud BE-kategooria juhtimisõigus?",
+        "answers": [
+            "Haagise ja auto täismassi summa on 3500 kg.",
+            "Haagise ja auto täismassi summa ületab 4250 kg, kuid väiksem kui 7000 kg."
+        ],
+        "correct": "Haagise ja auto täismassi summa ületab 4250 kg, kuid väiksem kui 7000 kg."
+    },
+    {
+        "id": 94,
+        "question": "Milline sümbol neist tähistab välispeeglite soojenduse lülitit?",
+        "answers": [
+            "A.", "B.", "C."
+        ],
+        "correct": "A."
+    },
+    {
+        "id": 95,
+        "question": "Mida tuleb arvestada, kui pukseeritaval autol ei tööta mootor?",
+        "answers": [
+            "Roolivõimendiga sõidukil ei muuda see rooli pööramist raskemaks.",
+            "Pidurivõimendiga sõidukil ei muutu piduripedaalile vajutamiseks vajalik jõud ega pidurdusteekonna pikkus.",
+            "Elektrisüsteem saab voolu ainult akult."
+        ],
+        "correct": "Elektrisüsteem saab voolu ainult akult."
+    },
+    {
+        "id": 96,
+        "question": "Milline on ristmiku ületamise järjekord?",
+        "answers": [
+            "Esimesena rohelised autod koos sinise autoga, mille juht on veendunud pöörde ohutuses, seejärel kollane ja punane auto ning viimasena must auto.",
+            "Esimesena must auto, järgnevad rohelised autod, seejärel sinine ja kollane auto ning viimasena punane auto."
+        ],
+        "correct": "Esimesena rohelised autod koos sinise autoga, mille juht on veendunud pöörde ohutuses, seejärel kollane ja punane auto ning viimasena must auto."
+    },
+    {
+        "id": 97,
+        "question": "Mida teed, kui sind pimestab vastutuleva auto juht?",
+        "answers": [
+            "Lülitan sisse kaugtuled ja sõidan edasi.",
+            "Annan sellest märku tulede vilgutamisega ja vähendan kiirust.",
+            "Suunan pilgu vasakpoolsele teeäärele."
+        ],
+        "correct": "Annan sellest märku tulede vilgutamisega ja vähendan kiirust."
+    },
+    {
+        "id": 98,
+        "question": "Kas sõiduk on peatatud õigesti?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Ei."
     }
 ]
