@@ -6,8 +6,12 @@
 				></span>
 				<div class="relative flex space-x-3">
 					<div>
-						<span v-if="test.incorrects.length > 1" class="h-8 w-8 rounded-full bg-red-400 flex items-center justify-center ring-8 ring-white text-white font-bold">🞫</span>
-                        <span v-else class="h-8 w-8 rounded-full bg-green-400 flex items-center justify-center ring-8 ring-white text-white font-bold">✓</span>
+						<span v-if="test.incorrects.length > 1" class="h-8 w-8 rounded-full bg-red-400 flex items-center justify-center ring-8 ring-white text-white font-bold">
+							<XIcon class="h-5 w-5"></XIcon>
+						</span>
+                        <span v-else class="h-8 w-8 rounded-full bg-green-400 flex items-center justify-center ring-8 ring-white text-white font-bold">
+							<CheckIcon class="h-5 w-5"></CheckIcon>
+						</span>
 					</div>
 					<div class="min-w-0 flex-1 pt-1.5 flex justify-between space-x-4">
 						<div>
@@ -27,8 +31,13 @@
 
 <script>
     import { DateTime } from 'luxon';
+	import { CheckIcon, XIcon } from '@heroicons/vue/solid';
 
     export default {
+		components: {
+			CheckIcon, XIcon
+		},
+
         methods: {
             how_long_ago(timestamp) {
                 return DateTime.fromMillis(timestamp, {locale: 'et'}).toRelative();
