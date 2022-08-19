@@ -32,6 +32,7 @@
 				</div>
 			</div>
 		</li>
+		<button v-if="history.length > 0" @click.prevent="clear_history" class="flex ml-auto text-gray-500 text-sm px-2 py-2 border-gray-300 border rounded-md">Kustuta ajalugu</button>
 	</ul>
 </template>
 
@@ -47,7 +48,12 @@
         methods: {
             how_long_ago(timestamp) {
                 return DateTime.fromMillis(timestamp, {locale: 'et'}).toRelative();
-            }
+            },
+
+			clear_history() {
+				this.$store.state.history = [];
+				return localStorage.removeItem('test-history');
+			}
         },
 
         computed: {
