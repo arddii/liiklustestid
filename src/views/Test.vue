@@ -1,11 +1,14 @@
 <template>
     <div class="container mx-auto px-8 lg:mt-48 lg:mb-48 mb-10">
         <Header :title="questions_count + ' küsimust'" :subtitle="'Sul võib olla maksimaalselt ' + calculate_max_wrong_answers() + ' valet vastust.'"></Header>
-
+        
         <div class="mt-16">
             <form @submit.prevent="submit">
                 <Question v-for="(question, index) in generated_questions" :key="index" :question="question" :index="index + 1" :is_wrong="wrongs.includes(question)" :correct="question.correct"></Question>
-                <button v-if="!submitted" type="submit" class="mt-5 px-4 py-3 font-semibold tracking-wide text-white text-xl bg-green-500 rounded-md hover:bg-green-600 transform duration-300">Kontrolli</button>
+                <div class="flex gap-x-5">
+                    <button v-if="!submitted" type="submit" class="mt-5 px-4 py-3 font-semibold tracking-wide text-white text-xl bg-green-500 rounded-md hover:bg-green-600 transform duration-300">Kontrolli</button>
+                    <button v-if="!submitted" @click.prevent="cancel" class="mt-5 px-4 py-3 font-semibold tracking-wide text-white text-xl bg-yellow-500 rounded-md hover:bg-yellow-600 transform duration-300">Tühista</button>
+                </div>
             </form>
         </div>
 
@@ -65,6 +68,7 @@
                     }
 
                     let summary = {
+                        status: this.wrongs.length > this.calculate_max_wrong_answers() ? 'failed' : 'finished',
                         questions: this.generated_questions,
                         incorrects: this.wrongs,
                         created_at: Date.now()
@@ -75,6 +79,19 @@
                     this.submitted = true;
                 }
             },
+
+            cancel() {
+                let summary = {
+                    status: 'canceled',
+                    questions: this.generated_questions,
+                    incorrects: this.wrongs,
+                    created_at: Date.now()
+                }
+
+                this.$store.dispatch('add_to_history', summary);
+
+                this.$router.push({name: 'home'});
+            }
         },
 
         computed: {
