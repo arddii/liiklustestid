@@ -32,7 +32,7 @@
                 questions_count: this.$route.query.questions,
                 generated_questions: [],
                 wrongs: [],
-                max_incorrect: 1,
+                max_incorrect: this.calculate_max_wrong_answers(),
                 submitted: false,
             }
         },
@@ -43,7 +43,7 @@
 
         methods: {
             calculate_max_wrong_answers() {
-                return this.max_incorrect;
+                return Math.round(this.questions_count * 0.15);
             },
 
             generate_questions() {

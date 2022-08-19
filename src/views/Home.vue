@@ -1,5 +1,5 @@
 <template>
-    <div class="container mx-auto px-8 lg:mt-48">
+    <div class="container mx-auto px-8 lg:mt-48 mb-10">
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-4">
             <div class="col-span-2 text-center lg:text-left">
                 <Header title="Liiklustestid" subtitle="Valmistu teooriaeksamiks täiesti tasuta."></Header>
