@@ -686,7 +686,7 @@
         "id": 80,
         "question": "Ristmiku moodustab kattega tee lõikumine ...",
         "answers": [
-            "õuealaga.", "kruusateega.", "pnnasteega."
+            "õuealaga.", "kruusateega.", "pinnasteega."
         ],
         "correct": "kruusateega."
     },
@@ -851,5 +851,277 @@
             "Jah.", "Ei."
         ],
         "correct": "Ei."
+    },
+    {
+        "id": 99,
+        "question": "Mida võib põhjustada ettenähtust suurema rehvirõhuga sõitmine?",
+        "answers": [
+            "Suureneb kütusekulu.",
+            "Pikeneb pidurdusteekond.",
+            "Rehvid kuluvad rohkem veerepinna servadelt."
+        ],
+        "correct": "Pikeneb pidurdusteekond."
+    },
+    {
+        "id": 100,
+        "question": "Mis on nendel kõikidel märkidel ühist?",
+        "answers": [
+            "Keelavad peatuda.",
+            "Kehitvad ainult sellel teepoolel, kuhu nad on pandud.",
+            "Kehtivad kogu tee laiuses."
+        ],
+        "correct": "Kehitvad ainult sellel teepoolel, kuhu nad on pandud."
+    },
+    {
+        "id": 101,
+        "question": "Vesiliu tekkimist soodustab ...",
+        "answers": [
+            "auto suur mass ja ABS-pidurisüsteem.",
+            "tugev vihmasadu ja suur sõidukiirus.",
+            "sissesõitmata rehvide kasutamine."
+        ],
+        "correct": "tugev vihmasadu ja suur sõidukiirus."
+    },
+    {
+        "id": 102,
+        "question": "Mida tähendab ütlus 'Ära sõida oma tuledest ette'?",
+        "answers": [
+            "Lähi- ja kaugtulede õigeaegsel ümberlülitamisel tuleb olla tähelepanelik.",
+            "Peatumisteekond peab olema lühem kui juhi vaateulatus tulede valgusvihus."
+        ],
+        "correct": "Peatumisteekond peab olema lühem kui juhi vaateulatus tulede valgusvihus."
+    },
+    {
+        "id": 103,
+        "question": "Millise suurima lubatud sõidukiirusega tohib juht pärast pööret ristmikult sõita?",
+        "answers": [
+            "50 km/h.", "90 km/h."
+        ],
+        "correct": "90 km/h."
+    },
+    {
+        "id": 104,
+        "question": "Valgustamata asulateel pargitud sõidukil peavad pimeda ajal põlema ...",
+        "answers": [
+            "lähituled.", "ohutuled.", "ääre- ja numbrituled."
+        ],
+        "correct": "ääre- ja numbrituled."
+    },
+    {
+        "id": 105,
+        "question": "Mida tähendab see teekattemärgis?",
+        "answers": [
+            "Eraldab aeglustus- ja kiirendusraja põhiradadest.",
+            "Tähistab sõiduradu ristmikul, kus on vaja rõhutada liikumissuunda."
+        ],
+        "correct": "Tähistab sõiduradu ristmikul, kus on vaja rõhutada liikumissuunda."
+    },
+    {
+        "id": 106,
+        "question": "Milline on jahutusvedeliku optimaalne temperatuur töösoojal mootoril?",
+        "answers": [
+            "75-80 °C.", "85-90 °C.", "95-105 °C."
+        ],
+        "correct": "85-90 °C."
+    },
+    {
+        "id": 107,
+        "question": "Kas isik, kes lükkab ja samal ajal roolib autot, on juht?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Jah."
+    },
+    {
+        "id": 108,
+        "question": "Kas olen kohustatud pöördel andma teed?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Ei."
+    },
+    {
+        "id": 109,
+        "question": "Kui pikk on B-kategooria juhiloa kehtivusaeg?",
+        "answers": [
+            "10 aastat.",
+            "Esmane juhiluba kehtib kolm aastat.",
+            "Piiratud juhtimisõigusega juhiluba kehtib isiku 19-aastaseks saamiseni."
+        ],
+        "correct": "10 aastat."
+    },
+    {
+        "id": 110,
+        "question": "Millises noolega näidatud suunas tohib sõita asulas?",
+        "answers": [
+            "A, B ja C.", "A, C ja D.", "A, B ja D."
+        ],
+        "correct": "A, C ja D."
+    },
+    {
+        "id": 111,
+        "question": "Kui kontrollija peatab sõiduki, ...",
+        "answers": [
+            "on juht kohustatud esitama kontrollijale tema nõudmisel vajalikud dokumendid.",
+            "on juht kohustatud väljuma sõidukist, et suhelda kontrollijaga.",
+            "ei ole juht kohustatud võimaldama kontrollida sõiduki tehnoseisundit ja varustust."
+        ],
+        "correct": "on juht kohustatud esitama kontrollijale tema nõudmisel vajalikud dokumendid."
+    },
+    {
+        "id": 112,
+        "question": "Mida on kohustatud tegema möödasõidul oleva sinise auto juht?",
+        "answers": [
+            "Andma kogu möödasõidu vältel suunamärguannet.",
+            "Hoidma punase sõiduki suhtes ohutut piki- ja külgvahet."
+        ],
+        "correct": "Hoidma punase sõiduki suhtes ohutut piki- ja külgvahet."
+    },
+    {
+        "id": 113,
+        "question": "Piduriteta haagise kasutamisel ...",
+        "answers": [
+            "on kohustuslik kasutada tiisli ühendamisel kaitseketti või trossi.",
+            "ei ole liikluskindlustus ja tehniline ülevaatus nõutud."
+        ],
+        "correct": "on kohustuslik kasutada tiisli ühendamisel kaitseketti või trossi."
+    },
+    {
+        "id": 114,
+        "question": "Suvine diislikütus võib hakata hanguma välisõhu temperatuuril ...",
+        "answers": [
+            "-5 °C.", "0 °C.", "5 °C."
+        ],
+        "correct": "-5 °C."
+    },
+    {
+        "id": 115,
+        "question": "Mis on neist kolmest juhi kõige sagedasem teeandmise kohustuse täitmata jätmise põhjus?",
+        "answers": [
+            "Juht ei soovi sel korral teed anda.",
+            "Tänavavalgustus ja hoonestus jätavad mulje, et tegu on peateega.",
+            "Arvamus, et suuremal sõidukil on eesõigus."
+        ],
+        "correct": "Tänavavalgustus ja hoonestus jätavad mulje, et tegu on peateega."
+    },
+    {
+        "id": 116,
+        "question": "Kumb auto paikneb vasakpöördeks õigel sõidurajal?",
+        "answers": [
+            "Kollane auto.", "Sinine auto."
+        ],
+        "correct": "Sinine auto."
+    },
+    {
+        "id": 117,
+        "question": "Väsimuse korral suureneb sõidukijuhil ...",
+        "answers": [
+            "reageerimiskiirus.", "vigade võimalik esinemine sõiduki juhtimisel.", "keskendumine."
+        ],
+        "correct": "vigade võimalik esinemine sõiduki juhtimisel."
+    },
+    {
+        "id": 118,
+        "question": "Kas roheline auto paikneb enne vasakpööret õigesti?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Ei."
+    },
+    {
+        "id": 119,
+        "question": "Mis on eraisikule kuuluva auto varustuses kohustuslik?",
+        "answers": [
+            "Apteek, ohutusvest ja parkimiskell.",
+            "Tõkiskingad, ohukolmnurk, töökorras ja kontrollitud tulekustuti."
+        ],
+        "correct": "Tõkiskingad, ohukolmnurk, töökorras ja kontrollitud tulekustuti."
+    },
+    {
+        "id": 120,
+        "question": "Liikleja on ...",
+        "answers": [
+            "sõitja.", "jalakäija.", "reguleerija."
+        ],
+        "correct": "jalakäija."
+    },
+    {
+        "id": 121,
+        "question": "Millise suurima lubatud kiirusega tohib pukseerida teist autot?",
+        "answers": [
+            "30 km/h asulas.",
+            "50 km/h nii asulas kui ka väljaspool asulat.",
+            "70 km/h väljaspool asulat."
+        ],
+        "correct": "50 km/h nii asulas kui ka väljaspool asulat."
+    },
+    {
+        "id": 122,
+        "question": "Kellel on teeandmise kohustus?",
+        "answers": [
+            "Jalakäijal.", "Autojuhtidel."
+        ],
+        "correct": "Jalakäijal."
+    },
+    {
+        "id": 123,
+        "question": "Kui kaua võtab organismil 1,0-promillise joove korral kainenemine tavaliselt aega?",
+        "answers": [
+            "Kuni 6 tundi.", "Kuni 8 tundi.", "Kuni 10 tundi."
+        ],
+        "correct": "Kuni 10 tundi."
+    },
+    {
+        "id": 124,
+        "question": "Milline märk on paigaldatud väljapoole asulat?",
+        "answers": [
+            "A.", "B.", "C."
+        ],
+        "correct": "C."
+    },
+    {
+        "id": 125,
+        "question": "Juhil peab olema seljas ohutusvest, kui ta väljub autost ...",
+        "answers": [
+            "asulavälisel teel valgel ajal.",
+            "asulas pimeda ajal sõiduteele.",
+            "asulavälisel teel sõiduteele hädapeatumisel pimeda aja või halva nähtavuse korral."
+        ],
+        "correct": "asulavälisel teel sõiduteele hädapeatumisel pimeda aja või halva nähtavuse korral."
+    },
+    {
+        "id": 126,
+        "question": "Millise suurima lubatud kiirusega tohin sõita pärast liiklusmärke?",
+        "answers": [
+            "30 km/h.", "40 km/h.", "50 km/h."
+        ],
+        "correct": "30 km/h."
+    },
+    {
+        "id": 127,
+        "question": "Millal tohib liigelda jääteel?",
+        "answers": [
+            "Valgel ajal, kui nähtavus on vähemalt 300 meetrit.",
+            "Kogu ööpäeva.",
+            "Kui puudub vastav tähistus."
+        ],
+        "correct": "Valgel ajal, kui nähtavus on vähemalt 300 meetrit."
+    },
+    {
+        "id": 128,
+        "question": "Millise suurima kiirusega on lubatud sõita pärast seda märki?",
+        "answers": [
+            "50 km/h.", "60 km/h.", "90 km/h."
+        ],
+        "correct": "90 km/h."
+    },
+    {
+        "id": 129,
+        "question": "Juht reguleerib esmalt ...",
+        "answers": [
+            "peeglid ja seejärel istme.",
+            "istme ja seejärel peeglid."
+        ],
+        "correct": "istme ja seejärel peeglid."
     }
 ]
