@@ -1123,5 +1123,354 @@
             "istme ja seejärel peeglid."
         ],
         "correct": "istme ja seejärel peeglid."
+    },
+    {
+        "id": 130,
+        "question": "Valge ajal hea nähtavusega sõites peavad mootorsõidukil põlema ainult ...",
+        "answers": [
+            "päevatuled või lähituled koos ääre- ja numbrituledega.",
+            "lähituled.",
+            "ääretuled."
+        ],
+        "correct": "päevatuled või lähituled koos ääre- ja numbrituledega."
+    },
+    {
+        "id": 131,
+        "question": "Missuguses suunas tohin ristmikul sõita?",
+        "answers": [
+            "Ainult otse.", "Otse, paremale või tagasi.", "Otse ja paremale."
+        ],
+        "correct": "Ainult otse."
+    },
+    {
+        "id": 132,
+        "question": "Milliste tuledega tohib sõita valge ajal, kui lähituled on rikkis?",
+        "answers": [
+            "Ohutuledega.", "Eesmiste udutuledega.", "Kaugtuledega."
+        ],
+        "correct": "Eesmiste udutuledega."
+    },
+    {
+        "id": 133,
+        "question": "Tagasipööre on lubatud ...",
+        "answers": [
+            "ristmikul.", "ülekäigurajal.", "ühesuunalisel teel."    
+        ],
+        "correct": "ristmikul."
+    },
+    {
+        "id": 134,
+        "question": "Mida tähistab selle märgutule põlemine näidikuplokis?",
+        "answers": [
+            "Auto on ülekoormatud.",
+            "Juhi kõrval istuva sõitja turvapadi on sisse lülitatud.",
+            "Turvavöö on kinnitamata."
+        ],
+        "correct": "Turvavöö on kinnitamata."
+    },
+    {
+        "id": 135,
+        "question": "Millest sõltub auto tsentrifugaaljõu suurus?",
+        "answers": [
+            "Kasutatavast kütusest.",
+            "Sõidukiirusest kurvis.",
+            "Rehvide seisundist."
+        ],
+        "correct": "Sõidukiirusest kurvis."
+    },
+    {
+        "id": 136,
+        "question": "Kuhu tohib sõiduki parkida?",
+        "answers": [
+            "Teekattele märgitud parkimiskohtade kõrvale.",
+            "Väljaspool asulat teepeenra puudumisel sõidutee äärde, mis ei ole tähistatud märgiga 'Peatee'.",
+            "Sõiduteele raudteeülesõidukohale lähemale kui 50 m."
+        ],
+        "correct": "Väljaspool asulat teepeenra puudumisel sõidutee äärde, mis ei ole tähistatud märgiga 'Peatee'."
+    },
+    {
+        "id": 137,
+        "question": "Kas olen kohustatud andma teed?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Ei."
+    },
+    {
+        "id": 138,
+        "question": "Kahju, mille tekitas sõidukile jalgrattur, hüvitab ...",
+        "answers": [
+            "jalgrattur.", "Eesti Liikluskindlustuse Fond.", "sõidukijuhi kindlustusandja."
+        ],
+        "correct": "jalgrattur."
+    },
+    {
+        "id": 139,
+        "question": "Kumb auto on peatatud õiges kohas?",
+        "answers": [
+            "Punane auto.", "Sinine auto."
+        ],
+        "correct": "Sinine auto."
+    },
+    {
+        "id": 140,
+        "question": "Milline on kaitslik (defensiivne) sõiduviis?",
+        "answers": [
+            "Sõiduviis, mille eesmärk on säästa kütust.",
+            "Sõiduviis, millega juht püüab ette näha liiklusolukordi ning ennetada enda ja teiste liiklejate võimalikke vigu."
+        ],
+        "correct": "Sõiduviis, millega juht püüab ette näha liiklusolukordi ning ennetada enda ja teiste liiklejate võimalikke vigu."
+    },
+    {
+        "id": 141,
+        "question": "Töökorras sõidupiduri eeldus on, et ...",
+        "answers": [
+            "näidikuplokis ei põle pildil näidatud märgutuli.",
+            "piduripedaali on võimalik vajutada vastu auto põrandat.",
+            "seisupidur on samuti töökorras."
+        ],
+        "correct": "näidikuplokis ei põle pildil näidatud märgutuli."
+    },
+    {
+        "id": 142,
+        "question": "Kuidas hindab enamik juhtidest oma sõiduoskust?",
+        "answers": [
+            "Õigesti.", "Teistest paremaks.", "Teistest halvemaks."
+        ],
+        "correct": "Teistest paremaks."
+    },
+    {
+        "id": 143,
+        "question": "Kas olen kohustatud andma teed?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Ei."
+    },
+    {
+        "id": 144,
+        "question": "Millal on õige üle minna kaugtuledelt lähituledele?",
+        "answers": [
+            "Hetkel, kui vastusõitva sõiduki kaugtuled hakkavad juhti pimestama.",
+            "Kui kaugus kahe vastusõitva sõiduki vahel on hinnanguliselt 500 m.",
+            "Siis, kui oleme vastusõitva sõidukiga peaaegu kohakuti."
+        ],
+        "correct": "Hetkel, kui vastusõitva sõiduki kaugtuled hakkavad juhti pimestama."
+    },
+    {
+        "id": 145,
+        "question": "Mis lõpetab selle märgi kehtivuse?",
+        "answers": [
+            "Märk 'Ühesuunalise tee lõpp'.",
+            "Lähim ristmik.",
+            "Märk 'Piirangute lõpp'."
+        ],
+        "correct": "Märk 'Ühesuunalise tee lõpp'."
+    },
+    {
+        "id": 146,
+        "question": "Millega tuleb juhil arvestada algava vihmasaju korral?",
+        "answers": [
+            "Pidurdusteekonna lühenemisega.",
+            "Nähtavuse lühiajalise halvenemisega klaasipuhastite sisselülitamisel.",
+            "Rehvide ja teepinna vahelise haardeteguri suurenemisega."
+        ],
+        "correct": "Nähtavuse lühiajalise halvenemisega klaasipuhastite sisselülitamisel."
+    },
+    {
+        "id": 147,
+        "question": "Milline on ristmiku ületamise järjekord?",
+        "answers": [
+            "Ületan ristmiku esimesena, siis ületab punase ja viimasena sinise auto juht.",
+            "Esimesena ületab ristmiku punase, siis sinise auto juht ja viimasena sõidan ise."
+        ],
+        "correct": "Ületan ristmiku esimesena, siis ületab punase ja viimasena sinise auto juht."
+    },
+    {
+        "id": 148,
+        "question": "Lubatud sõitjate arv autos ...",
+        "answers": [
+            "pole määratud.",
+            "on sõitjate otsustada.",
+            "on märgitud sõiduki registreerimistunnistusele."
+        ],
+        "correct": "on märgitud sõiduki registreerimistunnistusele."
+    },
+    {
+        "id": 149,
+        "question": "Juhi nägemisteravus on ...",
+        "answers": [
+            "parem nägemisvälja äärealadel.",
+            "parem nägemisvälja keskosas.",
+            "kõikjal ühtlane."
+        ],
+        "correct": "parem nägemisvälja keskosas."
+    },
+    {
+        "id": 150,
+        "question": "Säästliku sõidu eeldus on ...",
+        "answers": [
+            "tehniliselt korras sõiduk.",
+            "eessõitjaga võimalikult lühikese pikivahe hoidmine.",
+            "võimalikult ebaühtlane kiirus."
+        ],
+        "correct": "tehniliselt korras sõiduk."
+    },
+    {
+        "id": 151,
+        "question": "Millises noolega näidatud suunas tohib auto sõitu jätkata?",
+        "answers": [
+            "A.", "B.", "C."
+        ],
+        "correct": "B."
+    },
+    {
+        "id": 152,
+        "question": "Pikal ja üksluisel maanteesõidul ...",
+        "answers": [
+            "on ootamatus olukorras juhi reaktsioonikiirus aeglasem.",
+            "soodustab lai ja sile tee kiiruse täpsemat tajumist.",
+            "muutub juhi keskendumisvõime paremaks."
+        ],
+        "correct": "on ootamatus olukorras juhi reaktsioonikiirus aeglasem."
+    },
+    {
+        "id": 153,
+        "question": "Mida tähistavad need teel olevad märgid?",
+        "answers": [
+            "Teed, mis suundub märgil numbriga näidatud teele.",
+            "Tee numbrit."
+        ],
+        "correct": "Teed, mis suundub märgil numbriga näidatud teele."
+    },
+    {
+        "id": 154,
+        "question": "Mis aitab kujundada juhi positiivset hoiakut politsei suhtes?",
+        "answers": [
+            "Politseiniku selgitus, et suurim rahaline karistus tagab parima liikluskeskkonna.",
+            "Politseiniku arusaam, et eksinud juhiga ei saa olla viisakas.",
+            "See, kui politseinik arvestab liiklusreegleid rikkunud juhi selgitusi."
+        ],
+        "correct": "See, kui politseinik arvestab liiklusreegleid rikkunud juhi selgitusi."
+    },
+    {
+        "id": 155,
+        "question": "Kumma auto juht peab andma teed, kui teineteisest möödumine on raskendatud?",
+        "answers": [
+            "Punase auto juht.", "Kollase auto juht."
+        ],
+        "correct": "Punase auto juht."
+    },
+    {
+        "id": 156,
+        "question": "Autot tohib pesta ...",
+        "answers": [
+            "veekogus.",
+            "veekogu kaldale lähemal kui 10 meetrit veekogu piirist.",
+            "veekogu kaldal kaugemal kui 10 meetrit veekogu piirist."
+        ],
+        "correct": "veekogu kaldal kaugemal kui 10 meetrit veekogu piirist."
+    },
+    {
+        "id": 157,
+        "question": "Milline auto on peatatud õigesti?",
+        "answers": [
+            "Punane, kollane ja roheline auto.",
+            "Punane, sinine ja roheline auto.",
+            "Roheline, sinine ja kollane auto."
+        ],
+        "correct": "Punane, kollane ja roheline auto."
+    },
+    {
+        "id": 158,
+        "question": "Kuidas paistavad juhile objektid udus?",
+        "answers": [
+            "Objektid on tegelikult lähemal, kui ta arvab.",
+            "Objektid on tegelikult kaugemal, kui ta arvab.",
+            "Udu ei mõjuta seda, kuidas juht tajub objektide kaudust."
+        ],
+        "correct": "Objektid on tegelikult lähemal, kui ta arvab."
+    },
+    {
+        "id": 159,
+        "question": "Mis ei tohi olla mootorsõidukis?",
+        "answers": [
+            "Seadmeid, mis võimaldavad avastada või segada liiklusjärelvalve kiirusemõõteseadet.",
+            "Pardakaamerat, mis salvestab auto liikumise ajal auto ees toimuvat pilti.",
+            "Raadiolaineid püüdvat seadet."
+        ],
+        "correct": "Seadmeid, mis võimaldavad avastada või segada liiklusjärelvalve kiirusemõõteseadet."
+    },
+    {
+        "id": 160,
+        "question": "Kui kiirus suureneb, siis juhi vaateväli ...",
+        "answers": [
+            "aheneb.", "avardub.", "püsib muutumatuna."
+        ],
+        "correct": "aheneb."
+    },
+    {
+        "id": 161,
+        "question": "Kumma auto juht peab andma teed?",
+        "answers": [
+            "Kollase auto juht.", "Sinise auto juht."
+        ],
+        "correct": "Kollase auto juht."
+    },
+    {
+        "id": 162,
+        "question": "Juht loetakse lubatud alkoholi piirmäära ületavas seisundis olevaks, kui tema ...",
+        "answers": [
+            "ühes grammis veres on alkoholi 0,10 milligrammi.",
+            "ühes grammis veres on alkoholi 0,05 milligrammi.",
+            "ühes liitris väljahingatavas õhus on alkoholi 0,10 milligrammi."
+        ],
+        "correct": "ühes liitris väljahingatavas õhus on alkoholi 0,10 milligrammi."
+    },
+    {
+        "id": 163,
+        "question": "Kas juht peab andma teed robotliikurile?",
+        "answers": [
+            "Jah.", "Ei."
+        ],
+        "correct": "Jah."
+    },
+    {
+        "id": 164,
+        "question": "Kuidas peab käituma raudteeülesõidukohal hädapeatunud autojuht?",
+        "answers": [
+            "Paluma sõitjatel jääda autosse.",
+            "Tegema kõik endast oleneva, et vabastada raudteeülesõidukoht.",
+            "Kui nähtavale ilmub rong, peab ta laskma rongijuhile ohu hoiatuseks helisignaali."
+        ],
+        "correct": "Tegema kõik endast oleneva, et vabastada raudteeülesõidukoht."
+    },
+    {
+        "id": 165,
+        "question": "Mida tähendab see teekattemärgis?",
+        "answers": [
+            "Eraldab muutsuunaliiklusega sõiduraja naabersõidurajast.",
+            "Tähistab ühissõidukirada.",
+            "Tähistab kiirendus- või aeglustusrada."
+        ],
+        "correct": "Eraldab muutsuunaliiklusega sõiduraja naabersõidurajast."
+    },
+    {
+        "id": 166,
+        "question": "Piiratud juhtimisõigusega isik võib sõidukit juhtida, kui juhi kõrval ...",
+        "answers": [
+            "istub seadusliku esindusõiguseta viieaastase staažiga juht.",
+            "istuval seaduslikul esindajal on juhiluba olnud vähemalt üks aasta.",
+            "istuval seaduslikul esindajal ei ole lubatud alkoholi piirmäära ületavat joovet."
+        ],
+        "correct": "istuval seaduslikul esindajal ei ole lubatud alkoholi piirmäära ületavat joovet."
+    },
+    {
+        "id": 167,
+        "question": "Kellel on teeandmise kohustus?",
+        "answers": [
+            "Jalakäijatel.", "Autojuhil."
+        ],
+        "correct": "Autojuhil."
     }
 ]
